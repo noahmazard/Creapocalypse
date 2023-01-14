@@ -1,0 +1,12 @@
+#HP 1000
+#SPRITE maison.png
+
+#POSITION 130 130
+#SIZE 6 4
+
+1 1 1 1 1 1
+1 1 1 1 1 1
+1 1 1 1 1 1
+1 1 1 1 1 1
+
+

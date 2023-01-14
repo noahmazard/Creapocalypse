@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Fichiers sources">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Fichiers de ressources">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Tools">
+      <UniqueIdentifier>{1ae92475-56b4-4fa8-80f0-2b4cbfffb6ad}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core">
+      <UniqueIdentifier>{4b079740-21fd-4b20-a499-bf2c3db08b93}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="SFMLtools.c">
+      <Filter>Tools</Filter>
+    </ClCompile>
+    <ClCompile Include="player.c">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="tower.c">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="myMath.c">
+      <Filter>Tools</Filter>
+    </ClCompile>
+    <ClCompile Include="building.c">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="monster.c">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="update.c">
+      <Filter>Core</Filter>
+    </ClCompile>
+    <ClCompile Include="main.c">
+      <Filter>Core</Filter>
+    </ClCompile>
+    <ClCompile Include="init.c">
+      <Filter>Core</Filter>
+    </ClCompile>
+    <ClCompile Include="inputs.c">
+      <Filter>Core</Filter>
+    </ClCompile>
+    <ClCompile Include="display.c">
+      <Filter>Core</Filter>
+    </ClCompile>
+    <ClCompile Include="camera.c">
+      <Filter>Core</Filter>
+    </ClCompile>
+    <ClCompile Include="core.c">
+      <Filter>Core</Filter>
+    </ClCompile>
+    <ClCompile Include="highScore.c">
+      <Filter>Core</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="SFMLtools.h">
+      <Filter>Tools</Filter>
+    </ClInclude>
+    <ClInclude Include="myMath.h">
+      <Filter>Tools</Filter>
+    </ClInclude>
+    <ClInclude Include="monster.h">
+      <Filter>Fichiers sources</Filter>
+    </ClInclude>
+    <ClInclude Include="update.h">
+      <Filter>Core</Filter>
+    </ClInclude>
+    <ClInclude Include="inputs.h">
+      <Filter>Core</Filter>
+    </ClInclude>
+    <ClInclude Include="init.h">
+      <Filter>Core</Filter>
+    </ClInclude>
+    <ClInclude Include="display.h">
+      <Filter>Core</Filter>
+    </ClInclude>
+    <ClInclude Include="camera.h">
+      <Filter>Core</Filter>
+    </ClInclude>
+    <ClInclude Include="definitions.h">
+      <Filter>Core</Filter>
+    </ClInclude>
+    <ClInclude Include="building.h">
+      <Filter>Fichiers sources</Filter>
+    </ClInclude>
+    <ClInclude Include="player.h">
+      <Filter>Fichiers sources</Filter>
+    </ClInclude>
+    <ClInclude Include="tower.h">
+      <Filter>Fichiers sources</Filter>
+    </ClInclude>
+    <ClInclude Include="core.h">
+      <Filter>Core</Filter>
+    </ClInclude>
+    <ClInclude Include="highScore.h">
+      <Filter>Core</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

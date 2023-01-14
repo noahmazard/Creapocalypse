@@ -1,0 +1,96 @@
+﻿  building.c
+  camera.c
+F:\SVN\NoahMazard\Perso\Fevrier\Projet\BaseSFML\camera.c(7,42): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+F:\SVN\NoahMazard\Perso\Fevrier\Projet\BaseSFML\camera.c(8,42): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+  core.c
+F:\SVN\NoahMazard\Perso\Fevrier\Projet\BaseSFML\core.c(24,37): warning C4244: 'fonction' : conversion de 'float' en 'int', perte possible de données
+F:\SVN\NoahMazard\Perso\Fevrier\Projet\BaseSFML\core.c(24,51): warning C4244: 'fonction' : conversion de 'float' en 'int', perte possible de données
+  display.c
+F:\SVN\NoahMazard\Perso\Fevrier\Projet\BaseSFML\display.c(77,29): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+F:\SVN\NoahMazard\Perso\Fevrier\Projet\BaseSFML\display.c(100,29): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+F:\SVN\NoahMazard\Perso\Fevrier\Projet\BaseSFML\display.c(133,61): warning C4244: 'fonction' : conversion de 'float' en 'int', perte possible de données
+F:\SVN\NoahMazard\Perso\Fevrier\Projet\BaseSFML\display.c(153,58): warning C4244: 'fonction' : conversion de 'float' en 'int', perte possible de données
+F:\SVN\NoahMazard\Perso\Fevrier\Projet\BaseSFML\display.c(160,60): warning C4244: 'fonction' : conversion de 'float' en 'int', perte possible de données
+F:\SVN\NoahMazard\Perso\Fevrier\Projet\BaseSFML\display.c(165,50): warning C4244: 'fonction' : conversion de 'float' en 'int', perte possible de données
+  highScore.c
+F:\SVN\NoahMazard\Perso\Fevrier\Projet\BaseSFML\highScore.c(60,49): warning C4133: 'fonction' : types incompatibles - de 'sfUint32 *' à 'const char *'
+  init.c
+F:\SVN\NoahMazard\Perso\Fevrier\Projet\BaseSFML\init.c(51,118): warning C4244: 'initialisation' : conversion de 'unsigned int' en 'float', perte possible de données
+  inputs.c
+F:\SVN\NoahMazard\Perso\Fevrier\Projet\BaseSFML\inputs.c(25,35): warning C4244: 'fonction' : conversion de 'float' en 'int', perte possible de données
+F:\SVN\NoahMazard\Perso\Fevrier\Projet\BaseSFML\inputs.c(25,47): warning C4244: 'fonction' : conversion de 'float' en 'int', perte possible de données
+F:\SVN\NoahMazard\Perso\Fevrier\Projet\BaseSFML\inputs.c(53,80): warning C4244: 'fonction' : conversion de 'float' en 'int', perte possible de données
+F:\SVN\NoahMazard\Perso\Fevrier\Projet\BaseSFML\inputs.c(53,92): warning C4244: 'fonction' : conversion de 'float' en 'int', perte possible de données
+F:\SVN\NoahMazard\Perso\Fevrier\Projet\BaseSFML\inputs.c(163,34): warning C4244: 'fonction' : conversion de 'float' en 'int', perte possible de données
+F:\SVN\NoahMazard\Perso\Fevrier\Projet\BaseSFML\inputs.c(163,46): warning C4244: 'fonction' : conversion de 'float' en 'int', perte possible de données
+  main.c
+  monster.c
+F:\SVN\NoahMazard\Perso\Fevrier\Projet\BaseSFML\monster.c(47,92): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+F:\SVN\NoahMazard\Perso\Fevrier\Projet\BaseSFML\monster.c(51,89): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+F:\SVN\NoahMazard\Perso\Fevrier\Projet\BaseSFML\monster.c(56,101): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+F:\SVN\NoahMazard\Perso\Fevrier\Projet\BaseSFML\monster.c(60,99): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+F:\SVN\NoahMazard\Perso\Fevrier\Projet\BaseSFML\monster.c(65,101): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+F:\SVN\NoahMazard\Perso\Fevrier\Projet\BaseSFML\monster.c(69,100): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+F:\SVN\NoahMazard\Perso\Fevrier\Projet\BaseSFML\monster.c(74,93): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+F:\SVN\NoahMazard\Perso\Fevrier\Projet\BaseSFML\monster.c(78,91): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+F:\SVN\NoahMazard\Perso\Fevrier\Projet\BaseSFML\monster.c(96,39): warning C4244: 'fonction' : conversion de 'float' en 'int', perte possible de données
+F:\SVN\NoahMazard\Perso\Fevrier\Projet\BaseSFML\monster.c(96,56): warning C4244: 'fonction' : conversion de 'float' en 'int', perte possible de données
+F:\SVN\NoahMazard\Perso\Fevrier\Projet\BaseSFML\monster.c(107,39): warning C4244: 'fonction' : conversion de 'float' en 'int', perte possible de données
+F:\SVN\NoahMazard\Perso\Fevrier\Projet\BaseSFML\monster.c(107,56): warning C4244: 'fonction' : conversion de 'float' en 'int', perte possible de données
+F:\SVN\NoahMazard\Perso\Fevrier\Projet\BaseSFML\monster.c(139,60): warning C4020: 'GetVector' : paramètres réels trop nombreux
+F:\SVN\NoahMazard\Perso\Fevrier\Projet\BaseSFML\monster.c(157,39): warning C4244: 'fonction' : conversion de 'float' en 'int', perte possible de données
+F:\SVN\NoahMazard\Perso\Fevrier\Projet\BaseSFML\monster.c(157,56): warning C4244: 'fonction' : conversion de 'float' en 'int', perte possible de données
+F:\SVN\NoahMazard\Perso\Fevrier\Projet\BaseSFML\monster.c(163,39): warning C4244: 'fonction' : conversion de 'float' en 'int', perte possible de données
+F:\SVN\NoahMazard\Perso\Fevrier\Projet\BaseSFML\monster.c(163,56): warning C4244: 'fonction' : conversion de 'float' en 'int', perte possible de données
+F:\SVN\NoahMazard\Perso\Fevrier\Projet\BaseSFML\monster.c(284,1): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+F:\SVN\NoahMazard\Perso\Fevrier\Projet\BaseSFML\monster.c(408,35): warning C4244: 'fonction' : conversion de 'float' en 'int', perte possible de données
+F:\SVN\NoahMazard\Perso\Fevrier\Projet\BaseSFML\monster.c(408,48): warning C4244: 'fonction' : conversion de 'float' en 'int', perte possible de données
+F:\SVN\NoahMazard\Perso\Fevrier\Projet\BaseSFML\monster.c(410,27): warning C4244: 'fonction' : conversion de 'float' en 'int', perte possible de données
+F:\SVN\NoahMazard\Perso\Fevrier\Projet\BaseSFML\monster.c(410,40): warning C4244: 'fonction' : conversion de 'float' en 'int', perte possible de données
+  myMath.c
+  player.c
+F:\SVN\NoahMazard\Perso\Fevrier\Projet\BaseSFML\player.c(24,38): warning C4244: 'fonction' : conversion de 'float' en 'int', perte possible de données
+F:\SVN\NoahMazard\Perso\Fevrier\Projet\BaseSFML\player.c(24,53): warning C4244: 'fonction' : conversion de 'float' en 'int', perte possible de données
+F:\SVN\NoahMazard\Perso\Fevrier\Projet\BaseSFML\player.c(87,29): warning C4244: 'fonction' : conversion de 'float' en 'int', perte possible de données
+F:\SVN\NoahMazard\Perso\Fevrier\Projet\BaseSFML\player.c(87,47): warning C4244: 'fonction' : conversion de 'float' en 'int', perte possible de données
+F:\SVN\NoahMazard\Perso\Fevrier\Projet\BaseSFML\player.c(119,42): warning C4244: 'fonction' : conversion de 'float' en 'int', perte possible de données
+F:\SVN\NoahMazard\Perso\Fevrier\Projet\BaseSFML\player.c(119,60): warning C4244: 'fonction' : conversion de 'float' en 'int', perte possible de données
+F:\SVN\NoahMazard\Perso\Fevrier\Projet\BaseSFML\player.c(124,47): warning C4244: 'fonction' : conversion de 'float' en 'int', perte possible de données
+F:\SVN\NoahMazard\Perso\Fevrier\Projet\BaseSFML\player.c(124,65): warning C4244: 'fonction' : conversion de 'float' en 'int', perte possible de données
+F:\SVN\NoahMazard\Perso\Fevrier\Projet\BaseSFML\player.c(129,43): warning C4244: 'fonction' : conversion de 'float' en 'int', perte possible de données
+F:\SVN\NoahMazard\Perso\Fevrier\Projet\BaseSFML\player.c(129,65): warning C4244: 'fonction' : conversion de 'float' en 'int', perte possible de données
+F:\SVN\NoahMazard\Perso\Fevrier\Projet\BaseSFML\player.c(134,43): warning C4244: 'fonction' : conversion de 'float' en 'int', perte possible de données
+F:\SVN\NoahMazard\Perso\Fevrier\Projet\BaseSFML\player.c(134,65): warning C4244: 'fonction' : conversion de 'float' en 'int', perte possible de données
+F:\SVN\NoahMazard\Perso\Fevrier\Projet\BaseSFML\player.c(156,27): warning C4244: 'fonction' : conversion de 'float' en 'int', perte possible de données
+F:\SVN\NoahMazard\Perso\Fevrier\Projet\BaseSFML\player.c(156,45): warning C4244: 'fonction' : conversion de 'float' en 'int', perte possible de données
+F:\SVN\NoahMazard\Perso\Fevrier\Projet\BaseSFML\player.c(288,25): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+F:\SVN\NoahMazard\Perso\Fevrier\Projet\BaseSFML\player.c(289,25): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+F:\SVN\NoahMazard\Perso\Fevrier\Projet\BaseSFML\player.c(293,24): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+F:\SVN\NoahMazard\Perso\Fevrier\Projet\BaseSFML\player.c(294,24): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+  SFMLtools.c
+F:\SVN\NoahMazard\Perso\Fevrier\Projet\BaseSFML\SFMLtools.c(8,43): warning C4047: 'fonction' : les niveaux d'indirection de 'sfBool' et de 'void *' sont différents
+F:\SVN\NoahMazard\Perso\Fevrier\Projet\BaseSFML\SFMLtools.c(8,39): warning C4024: 'sfSprite_setTexture' : types différents pour le paramètre formel et réel 3
+F:\SVN\NoahMazard\Perso\Fevrier\Projet\BaseSFML\SFMLtools.c(13,1): warning C4244: 'initialisation' : conversion de 'unsigned int' en 'float', perte possible de données
+F:\SVN\NoahMazard\Perso\Fevrier\Projet\BaseSFML\SFMLtools.c(23,43): warning C4047: 'fonction' : les niveaux d'indirection de 'sfBool' et de 'void *' sont différents
+F:\SVN\NoahMazard\Perso\Fevrier\Projet\BaseSFML\SFMLtools.c(23,39): warning C4024: 'sfSprite_setTexture' : types différents pour le paramètre formel et réel 3
+F:\SVN\NoahMazard\Perso\Fevrier\Projet\BaseSFML\SFMLtools.c(28,1): warning C4244: 'initialisation' : conversion de 'unsigned int' en 'float', perte possible de données
+F:\SVN\NoahMazard\Perso\Fevrier\Projet\BaseSFML\SFMLtools.c(37,1): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+F:\SVN\NoahMazard\Perso\Fevrier\Projet\BaseSFML\SFMLtools.c(53,1): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+F:\SVN\NoahMazard\Perso\Fevrier\Projet\BaseSFML\SFMLtools.c(62,31): warning C4018: '<' : incompatibilité signed/unsigned
+F:\SVN\NoahMazard\Perso\Fevrier\Projet\BaseSFML\SFMLtools.c(62,46): warning C4018: '<' : incompatibilité signed/unsigned
+  tower.c
+F:\SVN\NoahMazard\Perso\Fevrier\Projet\BaseSFML\tower.c(64,42): warning C4244: 'fonction' : conversion de 'int' en 'float', perte possible de données
+F:\SVN\NoahMazard\Perso\Fevrier\Projet\BaseSFML\tower.c(64,52): warning C4244: 'fonction' : conversion de 'int' en 'float', perte possible de données
+F:\SVN\NoahMazard\Perso\Fevrier\Projet\BaseSFML\tower.c(93,58): warning C4244: 'fonction' : conversion de 'double' en 'float', perte possible de données
+F:\SVN\NoahMazard\Perso\Fevrier\Projet\BaseSFML\tower.c(93,68): warning C4244: 'fonction' : conversion de 'int' en 'float', perte possible de données
+F:\SVN\NoahMazard\Perso\Fevrier\Projet\BaseSFML\tower.c(264,75): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+F:\SVN\NoahMazard\Perso\Fevrier\Projet\BaseSFML\tower.c(271,27): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+  update.c
+F:\SVN\NoahMazard\Perso\Fevrier\Projet\BaseSFML\update.c(73,58): warning C4090: 'fonction' : qualificateurs 'const' différents
+  Génération de code en cours
+F:\SVN\NoahMazard\Perso\Fevrier\Projet\BaseSFML\highScore.c(128): warning C4715: 'SortStats' : les chemins de contrôle ne retournent pas tous une valeur
+  73 of 98 functions (74.5%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Fin de la génération du code
+  BaseSFML.vcxproj -> F:\SVN\NoahMazard\Perso\Fevrier\Projet\x64\Release\BaseSFML.exe
